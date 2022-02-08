@@ -21,16 +21,16 @@ class ConstantColors {
 }
 //
 class ConstantLinks {
-  static String lantern_image = "assets/svg_images/light.png";
-  static String azon_notifier_icon_image = "assets/svg_images/masjid.svg";
-  static String temprature_icon_image = "assets/svg_images/termo.svg";
-  static String quran = "assets/svg_images/quran.png";
-  static String tasbeh = "assets/svg_images/tasbeh.png";
-  static String muborak_days = "assets/svg_images/calendar.png";
-  static String masjid = "assets/svg_images/masjid.png";
-  static String qibla = "assets/svg_images/qibla.png";
-  static String bismillah = "assets/svg_images/bismillah.png";
-  static String frame = "assets/svg_images/frame.png";
-  static String tasbeh_gif = "assets/svg_images/tasbeh_gif.gif";
-  static String qiblah = "assets/svg_images/qibla.jpg";
+  static String lantern_image = "assets/images/light.png";
+  static String azon_notifier_icon_image = "assets/images/masjid.svg";
+  static String temprature_icon_image = "assets/images/termo.svg";
+  static String quran = "assets/images/quran.png";
+  static String tasbeh = "assets/images/tasbeh.png";
+  static String muborak_days = "assets/images/calendar.png";
+  static String masjid = "assets/images/masjid.png";
+  static String qibla = "assets/images/qibla.png";
+  static String bismillah = "assets/images/bismillah.png";
+  static String frame = "assets/images/frame.png";
+  static String tasbeh_gif = "assets/images/tasbeh_gif.gif";
+  static String qiblah = "assets/images/qibla.jpg";
 }
