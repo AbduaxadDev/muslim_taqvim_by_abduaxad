@@ -49,7 +49,7 @@ class _TasbehState extends State<Tasbeh> {
         width: MediaQuery.of(context).size.width,
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage(_theme ? "assets/svg_images/image_light.jpeg" : "assets/svg_images/image_dark.jpg"),
+            image: AssetImage(_theme ? "assets/images/image_light.jpeg" : "assets/images/image_dark.jpg"),
             fit: BoxFit.cover
             )
         ),
